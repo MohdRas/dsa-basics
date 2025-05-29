@@ -1,6 +1,10 @@
 # dsa - basics
 Basics of DSA
 
+
+
+Array & Hashing
+
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
  -  https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
@@ -10,8 +14,6 @@ Basics of DSA
  -  https://neetcode.io/courses/dsa-for-beginners/34 Bit Operations
  -  https://neetcode.io/courses/dsa-for-beginners/11 Merge sort
  -  https://neetcode.io/courses/dsa-for-beginners/12 Quick Sort
-
-Array & Hashing
 
  - Concatenation of Array   	
  - Contains Duplicate   	
