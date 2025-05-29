@@ -1,7 +1,7 @@
 # dsa - basics
 
 
-Array & Hashing-
+Array & Hashing Concept
 
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
@@ -43,7 +43,7 @@ Problems
  - First Missing Positive   
 
 
-Two Pointer 
+Two Pointer Concept
 
 
  - All above videos 
@@ -64,4 +64,19 @@ Problems
  - Rotate Array   	
  - Container With Most Water   	
  - Boats to Save People   	
- - Trapping Rain Water   
+ - Trapping Rain Water
+
+Sliding Window Concept
+
+
+Problems
+
+ - Contains Duplicate II   	
+ - Best Time to Buy And Sell Stock   	
+ - Longest Substring Without Repeating Characters   	
+ - Longest Repeating Character Replacement   	
+ - Permutation In String   	
+ - Minimum Size Subarray Sum   	
+ - Find K Closest Elements   	
+ - Minimum Window Substring   	
+ - Sliding Window Maximum   
