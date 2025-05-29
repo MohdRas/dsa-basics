@@ -1,13 +1,15 @@
 # dsa - basics
 Basics of DSA
 
- -  https://neetcode.io/courses/dsa-for-beginners/2
+ -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3
  -  https://neetcode.io/courses/dsa-for-beginners/26
  -  https://neetcode.io/courses/advanced-algorithms/6
  -  https://neetcode.io/courses/advanced-algorithms/3
  -  https://neetcode.io/courses/dsa-for-beginners/27
  -  https://neetcode.io/courses/dsa-for-beginners/34
+ -  https://neetcode.io/courses/dsa-for-beginners/11
+ -  https://neetcode.io/courses/dsa-for-beginners/12
 
 Array & Hashing
 
