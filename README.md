@@ -12,6 +12,10 @@ Array & Hashing-
  -  https://neetcode.io/courses/dsa-for-beginners/34 Bit Operations
  -  https://neetcode.io/courses/dsa-for-beginners/11 Merge sort
  -  https://neetcode.io/courses/dsa-for-beginners/12 Quick Sort
+  - https://neetcode.io/courses/dsa-for-beginners/13 Bucket sort
+ -  https://neetcode.io/courses/advanced-algorithms/4 Prefix Sums
+ -  https://neetcode.io/courses/dsa-for-beginners/22 Tree Maze Back Tracking
+ -  https://neetcode.io/courses/dsa-for-beginners/33 2-Dimentional DP
 
  - Concatenation of Array   	
  - Contains Duplicate   	
