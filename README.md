@@ -1,7 +1,7 @@
 # dsa - basics
 
 
-# Array & Hashing   - 
+# Array & Hashing 
 
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
@@ -43,7 +43,7 @@ Problems  -
  - First Missing Positive   
 
 
-Two Pointer  - 
+# Two Pointer  - 
 
 
  - All above videos 
@@ -67,7 +67,7 @@ Problems
  - Trapping Rain Water
 
 
-Sliding Window  - 
+# Sliding Window  - 
 
 
 Problems
