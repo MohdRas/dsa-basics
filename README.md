@@ -17,6 +17,8 @@ Array & Hashing-
  -  https://neetcode.io/courses/dsa-for-beginners/22 Tree Maze Back Tracking
  -  https://neetcode.io/courses/dsa-for-beginners/33 2-Dimentional DP
 
+Problems 
+
  - Concatenation of Array   	
  - Contains Duplicate   	
  - Valid Anagram   	
@@ -40,9 +42,15 @@ Array & Hashing-
  - Subarray Sum Equals K   	
  - First Missing Positive   
 
+
 Two Pointer 
+
+
  - All above videos 
  - https://neetcode.io/courses/advanced-algorithms/3
+
+
+Problems
 
  - Reverse String   	
  - Valid Palindrome   	
