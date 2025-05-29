@@ -1,6 +1,4 @@
 # dsa - basics
-Basics of DSA
-
 
 
 Array & Hashing
