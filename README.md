@@ -69,6 +69,15 @@ Problems
 
 # Sliding Window  - 
 
+ - https://neetcode.io/courses/advanced-algorithms/1 Sliding Window Fixed Size
+ - https://neetcode.io/courses/advanced-algorithms/2 Sliding Window Variable Size
+ - https://neetcode.io/courses/advanced-algorithms/4 Prefix Sum
+ - https://neetcode.io/courses/dsa-for-beginners/14 Binary Search
+ - https://neetcode.io/courses/advanced-algorithms/3 Two pointer
+-  https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
+ - https://neetcode.io/courses/dsa-for-beginners/7 Queues
+
+
 
 Problems
 
