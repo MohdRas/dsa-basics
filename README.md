@@ -46,8 +46,10 @@ Problems  -
 # Two Pointer  - 
 
 
- - All above videos 
- - https://neetcode.io/courses/advanced-algorithms/3
+ - https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
+ - https://neetcode.io/courses/advanced-algorithms/3 Two Pointer
+ -  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
+ -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
 
 
 Problems
