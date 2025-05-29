@@ -39,3 +39,21 @@ Array & Hashing-
  - Majority Element II   	
  - Subarray Sum Equals K   	
  - First Missing Positive   
+
+Two Pointer 
+ - All above videos 
+ - https://neetcode.io/courses/advanced-algorithms/3
+
+ - Reverse String   	
+ - Valid Palindrome   	
+ - Valid Palindrome II   	
+ - Merge Strings Alternately   	
+ - Merge Sorted Array   	
+ - Remove Duplicates From Sorted Array   	
+ - Two Sum II Input Array Is Sorted   	
+ - 3Sum   	
+ - 4Sum   	
+ - Rotate Array   	
+ - Container With Most Water   	
+ - Boats to Save People   	
+ - Trapping Rain Water   
