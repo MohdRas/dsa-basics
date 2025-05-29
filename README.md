@@ -1,7 +1,7 @@
 # dsa - basics
 
 
-Array & Hashing Concept
+# Array & Hashing   - 
 
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
@@ -17,7 +17,7 @@ Array & Hashing Concept
  -  https://neetcode.io/courses/dsa-for-beginners/22 Tree Maze Back Tracking
  -  https://neetcode.io/courses/dsa-for-beginners/33 2-Dimentional DP
 
-Problems 
+Problems  - 
 
  - Concatenation of Array   	
  - Contains Duplicate   	
@@ -43,7 +43,7 @@ Problems
  - First Missing Positive   
 
 
-Two Pointer Concept
+Two Pointer  - 
 
 
  - All above videos 
@@ -66,7 +66,8 @@ Problems
  - Boats to Save People   	
  - Trapping Rain Water
 
-Sliding Window Concept
+
+Sliding Window  - 
 
 
 Problems
