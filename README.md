@@ -1,7 +1,7 @@
 # dsa - basics
 
 
-ARRAY & HASHING
+Array & Hashing-
 
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
