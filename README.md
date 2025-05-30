@@ -32,9 +32,8 @@
  - variable capacity - max number of elements an array can hold.
  - (length-1)th index element - last element
 
-- Resizing - create arr2(n2) of 1.5 times of capacity of arr1.
- - copy arr1 to arr2. [ 0 -> (n1-1)]
-- add new element at arr[n1] = new_element
+- Resizing - create arr2(n2) of 1.5 times of capacity of arr1 . copy arr1 to arr2. [ 0 -> (n1-1)]
+- add new element at arr2[n1] = new_element and increment length by 1
  - assign new array back to original array - arr1 = arr2;
   - https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
   - https://neetcode.io/courses/advanced-algorithms/6 Trie
