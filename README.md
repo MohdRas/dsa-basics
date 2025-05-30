@@ -27,10 +27,10 @@
   - a[i+1] = a[i];  
    
   - https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
- - default_capacity = when array is creted first time (10 arraylist in java )
- - length -  total number of elements
- - capacity - max number of elements an array can hold.
- - last element - it will be at (length-1)th index
+ - variable default_capacity = when array is creted first time (10 arraylist in java )
+ - variable length -  total number of elements
+ - variable capacity - max number of elements an array can hold.
+ - (length-1)th index element - last element
 
 - Resizing - create arr2(n2) of 1.5 times of capacity of arr1.
  - copy arr1 to arr2. [ 0 -> (n1-1)]
