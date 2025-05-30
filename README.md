@@ -6,6 +6,9 @@
  -  https://neetcode.io/courses/dsa-for-beginners/2 static array
  - first element -  a[0]
  - last element - a[n-1] , n is the total length of the array.
+- deleting from the end -> 
+ - a[n-1] = null/0/-1
+ - length = length-1;
    
  -  https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
  -  https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
