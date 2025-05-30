@@ -27,6 +27,15 @@
   - a[i+1] = a[i];  
    
   - https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
+ - default_capacity = when array is creted first time (10 arraylist in java )
+ - length -  total number of elements
+ - capacity - max number of elements an array can hold.
+ - last element - it will be at (length-1)th index
+
+- Resizing - create arr2(n2) of 1.5 times of capacity of arr1.
+ - copy arr1 to arr2. [ 0 -> (n1-1)]
+- add new element at arr[n1] = new_element
+ - assign new array back to original array - arr1 = arr2;
   - https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
   - https://neetcode.io/courses/advanced-algorithms/6 Trie
   - https://neetcode.io/courses/advanced-algorithms/3 Two pointer
