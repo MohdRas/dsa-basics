@@ -7,9 +7,11 @@
   - first element  - a[0]
   - last element  - a[n-1]
   - delete from the end -> O(1) --->>> length = length - 1 and a[n-1] = null/0/-1
-  - delete the kth element -> O(n) --->>> shift one position to left. length = length - 1 and  i = K....n-2, a[i] = a[i+1]
+  - delete the kth element -> O(n) --->>> shift one position to left. 
+  - length = length - 1 and i = K....n-2, a[i] = a[i+1]
   - insert at the end(index k) -> O(1)  ---->>> length = length + 1, a[n-1] = new_element
-  - insert the kth element -> O(n) -->>> shift one position to right, length = length + 1 and  i = n-2....k, a[i+1] = a[i]
+  - insert the kth element -> O(n) -->>> shift one position to right. 
+- length = length + 1 and  i = n-2....k, a[i+1] = a[i]
    
 - https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
  - variable default_capacity = when array is creted first time (10 arraylist in java )
