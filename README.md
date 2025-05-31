@@ -5,28 +5,13 @@
 
   - https://neetcode.io/courses/dsa-for-beginners/2 static array
   - first element  - a[0]
-  - last element  - a[n-1] , n is the total length of the array.
- - delete from the end -> O(1)
-  - decrement length by 1 and assign -1/0/null to the last element a[n-1]
-  - a[n-1] = null/0/-1
-  - length = length-1;
-
- - delete the ith element -> O(n)
-  - shift (i+1)th to ith and so on. (n-1)th element will be moved to (n-2)th element. (n-1)th element can be assigned null/-1/0
-  - decrement length by 1
-  - a[i] = a[i+1];
-
-  - insert at the end -> O(1)
-  - increment length by 1
-  - a[n-1] = value
-  - length = length+1;
-
- - insert the ith element -> O(n)
-  - shift (i)th to (i+1)th and so on. (n-1)th element will be moved to (n-2)th element. (n-1)th element can be assigned null/-1/0
-  - increment length by 1
-  - a[i+1] = a[i];  
+  - last element  - a[n-1]
+  - delete from the end -> O(1) --->>> length = length - 1 and a[n-1] = null/0/-1
+  - delete the kth element -> O(n) --->>> shift one position to left. length = length - 1 and  i = K....n-2, a[i] = a[i+1]
+  - insert at the end(index k) -> O(1)  ---->>> length = length + 1, a[n-1] = new_element
+  - insert the kth element -> O(n) -->>> shift one position to right, length = length + 1 and  i = n-2....k, a[i+1] = a[i]
    
-  - https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
+- https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
  - variable default_capacity = when array is creted first time (10 arraylist in java )
  - variable length -  total number of elements
  - variable capacity - max number of elements an array can hold.
