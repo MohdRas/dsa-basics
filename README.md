@@ -23,7 +23,7 @@
 - add new element at arr2[n1] = new_element and increment length by 1
  - assign new array back to original array - arr1 = arr2;
   - https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
- -  avearge case time complexity - O(1) for add, remove, search in HashSet/HashMap. it is average case time complexity but We assume it as worst case, that why write it as Big O notation.
+ -  avearge case time complexity - O(1) for add, remove, search in HashSet/HashMap. But We assume it as worst case, that why write it as Big O notation.
   - O(logn) for add. remove, seach in TreeMap ( Red-Black Tree, a self balancing BST). Keys are sorted in ascending order.
 - No dupliate keys in HashSet/HashMap/TreeMap.
   - https://neetcode.io/courses/advanced-algorithms/6 Trie
