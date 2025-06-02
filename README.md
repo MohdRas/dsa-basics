@@ -2,30 +2,28 @@
 
 
 # Array & Hashing 
-
-  - https://neetcode.io/courses/dsa-for-beginners/2 static array
-  - first element  - a[0]
-  - last element  - a[n-1]
-  - delete from the end -> O(1) --->>> length = length - 1 and a[n-1] = null/0/-1
-  - delete the kth element -> O(n) --->>> shift one position to left. 
-  - length = length - 1 and i = K....n-2, a[i] = a[i+1]
-  - insert at the end(index k) -> O(1)  ---->>> length = length + 1, a[n-1] = new_element
-  - insert the kth element -> O(n) -->>> shift one position to right. 
-- length = length + 1 and  i = n-1....k+1, a[i] = a[i-1]
+- https://neetcode.io/courses/dsa-for-beginners/2 static array
+   - first element  - a[0]
+   - last element  - a[n-1]
+   - delete from the end -> O(1) --->>> length = length - 1 and a[n-1] = null/0/-1
+   - delete the kth element -> O(n) --->>> shift one position to left. 
+   - length = length - 1 and i = K....n-2, a[i] = a[i+1]
+   - insert at the end(index k) -> O(1)  ---->>> length = length + 1, a[n-1] = new_element
+   - insert the kth element -> O(n) -->>> shift one position to right. 
+   - length = length + 1 and  i = n-1....k+1, a[i] = a[i-1]
    
 - https://neetcode.io/courses/dsa-for-beginners/3 dynamic array
- - variable default_capacity = when array is creted first time (10 arraylist in java )
- - variable length -  total number of elements
- - variable capacity - max number of elements an array can hold.
- - (length-1)th index element - last element
-
-- Resizing - create arr2(n2) of 1.5 times of capacity of arr1 . copy arr1 to arr2. [ 0 -> (n1-1)]
-- add new element at arr2[n1] = new_element and increment length by 1
- - assign new array back to original array - arr1 = arr2;
-  - https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
- -  avearge case time complexity - O(1) for add, remove, search in HashSet/HashMap. But We assume it as worst case, that why write it as Big O notation.
+  - variable default_capacity = when array is creted first time (10 arraylist in java )
+  - variable length -  total number of elements
+  - variable capacity - max number of elements an array can hold.
+  - (length-1)th index element - last element
+  - Resizing - create arr2(n2) of 1.5 times of capacity of arr1 . copy arr1 to arr2. [ 0 -> (n1-1)]
+  - add new element at arr2[n1] = new_element and increment length by 1
+  - assign new array back to original array - arr1 = arr2;
+- https://neetcode.io/courses/dsa-for-beginners/26 Hash Usage
+  - avearge case time complexity - O(1) for add, remove, search in HashSet/HashMap. But We assume it as worst case, that why write it as Big O notation.
   - O(logn) for add. remove, seach in TreeMap ( Red-Black Tree, a self balancing BST). Keys are sorted in ascending order.
-- No dupliate keys in HashSet/HashMap/TreeMap.
+  - No dupliate keys in HashSet/HashMap/TreeMap.
 - https://neetcode.io/courses/advanced-algorithms/6 Trie
   - It is a sequence of TrieNode. Each node define two things - how many children nodes & if current node is end of the word or not.
   - child nodes are kept in a hashmap.
