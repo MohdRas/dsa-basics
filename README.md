@@ -1,6 +1,6 @@
 # dsa  - basics
-- string ------> array of characters => "hell0".toCharArray();
-- array of characters ------> String => String.valueOf(array);
+- String to Array => "Hello".toCharArray();
+- Array to String => String.valueOf(array);
 
 
 # Array & Hashing 
