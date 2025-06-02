@@ -25,19 +25,18 @@
   - O(logn) for add. remove, seach in TreeMap ( Red-Black Tree, a self balancing BST). Keys are sorted in ascending order.
   - No dupliate keys in HashSet/HashMap/TreeMap.
 - https://neetcode.io/courses/advanced-algorithms/6 Trie
-  - It is a sequence of TrieNode. Each node define two things - how many children nodes & if current node is end of the word or not.
-  - child nodes are kept in a hashmap.
-  - TrieNode { boolean leafNode, Map<Character, TrieNode> children}
-- O(w) , w = length of the word, to insert, seach a word & search a prefix of a word.
-  - https://neetcode.io/courses/advanced-algorithms/3 Two pointer
-  - https://neetcode.io/courses/dsa-for-beginners/27 Hash ImpleNodde mentation
-  - https://neetcode.io/courses/dsa-for-beginners/34 Bit Operations
-  - https://neetcode.io/courses/dsa-for-beginners/11 Merge sort
-  - https://neetcode.io/courses/dsa-for-beginners/12 Quick Sort
-   - https://neetcode.io/courses/dsa-for-beginners/13 Bucket sort
-  - https://neetcode.io/courses/advanced-algorithms/4 Prefix Sums
-  - https://neetcode.io/courses/dsa-for-beginners/22 Tree Maze Back Tracking
-  - https://neetcode.io/courses/dsa-for-beginners/33 2-Dimentional DP
+  - It is a sequence of TrieNode. Each node define two things - map of childr nodes & boolean flag ( to indicate if this node is leaf node or not )
+  - TrieNode { boolean leafNodeFlag, Map<Character, TrieNode> children}
+  - O(w) , w = length of the word, to insert, seach a word & search a prefix of a word.
+- https://neetcode.io/courses/advanced-algorithms/3 Two pointer
+- https://neetcode.io/courses/dsa-for-beginners/27 Hash ImpleNodde mentation
+- https://neetcode.io/courses/dsa-for-beginners/34 Bit Operations
+- https://neetcode.io/courses/dsa-for-beginners/11 Merge sort
+- https://neetcode.io/courses/dsa-for-beginners/12 Quick Sort
+- https://neetcode.io/courses/dsa-for-beginners/13 Bucket sort
+- https://neetcode.io/courses/advanced-algorithms/4 Prefix Sums
+- https://neetcode.io/courses/dsa-for-beginners/22 Tree Maze Back Tracking
+- https://neetcode.io/courses/dsa-for-beginners/33 2-Dimentional DP
 
 Problems   - 
 
