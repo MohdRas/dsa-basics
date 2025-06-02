@@ -26,7 +26,7 @@
  -  avearge case time complexity - O(1) for add, remove, search in HashSet/HashMap. But We assume it as worst case, that why write it as Big O notation.
   - O(logn) for add. remove, seach in TreeMap ( Red-Black Tree, a self balancing BST). Keys are sorted in ascending order.
 - No dupliate keys in HashSet/HashMap/TreeMap.
-  - https://neetcode.io/courses/advanced-algorithms/6 Trie
+- https://neetcode.io/courses/advanced-algorithms/6 Trie
   - It is a sequence of TrieNode. Each node define two things - how many children nodes & if current node is end of the word or not.
   - child nodes are kept in a hashmap.
   - TrieNode { boolean leafNode, Map<Character, TrieNode> children}
