@@ -27,7 +27,7 @@
 - https://neetcode.io/courses/advanced-algorithms/6 Trie
   - It is a sequence of TrieNode. Each node define two things - map of childr nodes & boolean flag ( to indicate if this node is leaf node or not )
   - TrieNode { boolean leafNodeFlag, Map<Character, TrieNode> children}
-  - O(w) , w = length of the word, to insert, seach a word & search a prefix of a word.
+  - Insert or seach a word and search a prefix of a word - O(w) , w = length of the word
 - https://neetcode.io/courses/advanced-algorithms/3 Two pointer
 - https://neetcode.io/courses/dsa-for-beginners/27 Hash ImpleNodde mentation
 - https://neetcode.io/courses/dsa-for-beginners/34 Bit Operations
